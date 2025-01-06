@@ -5,14 +5,14 @@ This is a fully functional e-commerce web application clone of Myntra, built usi
 
 ## Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Features]
+- [Technologies Used]
+- [Installation]
+- [Usage]
 - [API](#api)
-- [Contributing](#contributing)
-- [License](#license)
-
+- [Contributing]
+- [License]
+  
 ## Features
 
 - **Product Listing**: Displays a list of products fetched from the FakeStore API.
@@ -36,39 +36,7 @@ This is a fully functional e-commerce web application clone of Myntra, built usi
 - **Slick Carousel**: Carousel/slider library.
 - **FakeStore API**: Free API for testing and prototyping e-commerce applications.
 
-## Installation
 
-1. **Clone the repository**
-
-   ```sh
-   git clone https://github.com/your-username/myntra-clone.git
-   cd myntra-clone
-   ```
-
-2. **Install dependencies**
-
-   ```sh
-   npm install
-   ```
-
-3. **Add Firebase configuration**
-
-   Create a `.env` file in the root directory and add your Firebase configuration:
-
-   ```env
-   REACT_APP_FIREBASE_API_KEY=your_api_key
-   REACT_APP_FIREBASE_AUTH_DOMAIN=your_auth_domain
-   REACT_APP_FIREBASE_PROJECT_ID=your_project_id
-   REACT_APP_FIREBASE_STORAGE_BUCKET=your_storage_bucket
-   REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
-   REACT_APP_FIREBASE_APP_ID=your_app_id
-   ```
-
-4. **Start the application**
-
-   ```sh
-   npm start
-   ```
 
 ## Usage
 
@@ -81,13 +49,3 @@ This is a fully functional e-commerce web application clone of Myntra, built usi
 ## API
 
 This project uses the [FakeStore API](https://fakestoreapi.com/products) for fetching product data. No API key is required.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
